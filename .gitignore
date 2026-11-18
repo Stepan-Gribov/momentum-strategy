@@ -1,0 +1,9 @@
+/data/
+/plots/
+*.RData
+*.Rdata
+*.Rhistory
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
